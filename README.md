@@ -22,8 +22,8 @@ Installing with Docker
 You can also run the dashboard inside of docker:
 
 ``` {.console}
-$ docker pull eoranged/rq-dashboard
-$ docker run -p 9181:9181 eoranged/rq-dashboard
+$ docker pull lamhoangtung/rq-dashboard
+$ docker run -p 9181:9181 lamhoangtung/rq-dashboard
 ```
 
 and you can then run the image. You can pass additional options using
